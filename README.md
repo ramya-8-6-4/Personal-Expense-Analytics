@@ -20,6 +20,7 @@ ORGANIZTION: CODETECHIT SOLUTIONS
 MENTOR:Neela Santhosh
 
 Local URL: http://localhost:8501
+
 Network URL: http://192.168.29.225:8501
 
 
