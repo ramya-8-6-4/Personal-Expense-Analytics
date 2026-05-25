@@ -1,0 +1,180 @@
+PERSONAL EXPENSE ANALYTICS PROJECT DOCUMENTATION
+
+ 1. Project Title
+
+**Personal Expense Analytics Using Python**
+
+ 2. Objective
+
+The main objective of this project is to analyze personal expenses using Python and visualize spending patterns through graphs and dashboards. The project also predicts future expenses using Machine Learning techniques.
+
+
+
+ 3. Problem Statement
+
+Managing personal expenses manually is difficult and time-consuming. This project helps users:
+
+* Track expenses
+* Analyze spending habits
+* Identify major expense categories
+* Predict future expenses
+
+using data analytics and visualization techniques.
+
+
+ 4. Technologies Used
+
+| Technology   | Purpose                |
+| ------------ | ---------------------- |
+| Python       | Programming Language   |
+| Pandas       | Data Analysis          |
+| Matplotlib   | Data Visualization     |
+| Seaborn      | Advanced Visualization |
+| Scikit-learn | Machine Learning       |
+| Streamlit    | Dashboard Development  |
+
+
+ 5. Dataset Used
+
+Dataset Name:
+**Personal Finance Dataset**
+
+Dataset Source:
+
+[Kaggle Dataset Link](https://www.kaggle.com/datasets/alhamdulliah123/personal-expense-analysis-and-budget-prediction?utm_source=chatgpt.com)
+
+Dataset contains:
+
+* Date
+* Expense Category
+* Amount
+* Payment Mode
+* Monthly Expenses
+
+
+ 6. Modules in Project
+
+ a) Data Collection
+
+The dataset is collected from Kaggle in CSV format.
+
+b) Data Preprocessing
+
+The following preprocessing steps are performed:
+
+* Handling missing values
+* Removing duplicate records
+* Date conversion
+* Creating month and year columns
+
+ c) Data Analysis
+
+Expense analysis performed:
+
+* Monthly Expense Analysis
+* Category Wise Expense Analysis
+* Payment Mode Analysis
+* Top Expenses Analysis
+
+ d) Data Visualization
+
+Visualizations created:
+
+* Line Charts
+* Bar Charts
+* Pie Charts
+* Histogram
+* Heatmap
+
+ e) Machine Learning Prediction
+
+A Linear Regression model is used for:
+
+* Expense Prediction
+* Future Expense Forecasting
+
+ f) Dashboard Creation
+
+A Streamlit dashboard is developed to:
+
+* Display dataset
+* Show charts interactively
+* Display predictions
+
+
+ 7. System Requirements
+
+ Hardware Requirements
+
+* Minimum 4GB RAM
+* Intel i3 Processor or above
+
+ Software Requirements
+
+* Python 3.x
+* VS Code / PyCharm
+* Streamlit
+
+
+ 8. Python Libraries Used
+
+pandas
+matplotlib
+seaborn
+scikit-learn
+streamlit
+numpy
+
+
+
+ 9. Workflow of Project
+
+1. Load Dataset
+2. Clean Dataset
+3. Analyze Expenses
+4. Visualize Data
+5. Train Machine Learning Model
+6. Predict Future Expenses
+7. Create Dashboard
+
+
+ 10. Machine Learning Algorithm Used
+
+Linear Regression
+
+Linear Regression is used to predict future expenses based on monthly spending trends.
+
+ Advantages
+
+* Simple and fast
+* Easy to understand
+* Good for prediction tasks
+
+
+ 11. Output Screens
+
+The project generates:
+
+* Expense Trend Graph
+* Category Expense Chart
+* Expense Distribution Pie Chart
+* Heatmap
+* Prediction Graph
+* Streamlit Dashboard
+
+
+ 12. Future Enhancements
+
+Future improvements can include:
+
+* Real-time expense tracking
+* AI-based budgeting suggestions
+* Mobile app integration
+* Cloud database storage
+
+
+ 13. Conclusion
+
+The Personal Expense Analytics project helps users analyze and manage their expenses effectively using data analytics, visualization, and machine learning techniques. The project provides meaningful insights into spending patterns and predicts future expenses accurately.
+
+
